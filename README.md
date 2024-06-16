@@ -12,7 +12,7 @@ This repository contains a simple command-line calculator written in Python.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your_username/CLI-Simple-Calculator.git
+   https://github.com/rarifyx/Python-CLI-Calculator.git
    ```
 2. **Navigate to the directory:**
    ```bash
